@@ -1,4 +1,4 @@
-this is my new and first repository in this github 
+[qty.csv](https://github.com/singhshubham3/new_desk/files/12643211/qty.csv)this is my new and first repository in this github 
 and this is only for checking 
 not other means of this file contains so only contains for the only
 make this a new file and load this to a new file 
@@ -16,3 +16,19 @@ make this a new file and load this to a new file the short description about thi
 
 ![Screenshot 2023-06-14 162452](https://github.com/singhshubham3/new_desk/assets/137921108/f8ca10dc-40d1-4a65-ad99-767d69ab3f22)
 the short description about this project is in this file and this will be done by the new staff manager and the all file in this gallery is located in the local file of the snow flake and so this on the repository and just tell me the new file name here and i will tell you the full path to that directory
+
+[Uploading grade_a,qty
+a,45
+b,54
+c,56
+a,78
+b,25
+c,45
+a,85
+b,56[1.1 Data.xlsx](https://github.com/singhshubham3/new_desk/files/12643214/1.1.Data.xlsx)
+
+c,57
+a,62
+b,55
+c,66
+qty.csv…]()
